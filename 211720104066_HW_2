@@ -77,7 +77,7 @@ maintained in a single file as compared to the small chunks of data stored in mu
 
 
 
-
+ 
 
 #Question 9:How do you define “block” in HDFS? What is the default block size in
 Hadoop 1 and in Hadoop 2? Can it be changed?
