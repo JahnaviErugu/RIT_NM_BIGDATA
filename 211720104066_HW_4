@@ -27,7 +27,7 @@ Scala is the most used among them because Spark is written in Scala and it is th
 
 
 
-
+ 
 
 #Question 5: What are benefits of Spark over MapReduce?
 The primary difference between Spark and MapReduce is that Spark processes and retains data in memory for subsequent steps,
