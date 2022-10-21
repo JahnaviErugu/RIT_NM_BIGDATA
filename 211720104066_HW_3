@@ -82,7 +82,7 @@ Key Difference between Scala and Java:
 Scala is a statically typed programming language, whereas Java is a multi-platform, network-centric programming language.
 Scala uses an actor model for supporting modern concurrency,
 whereas Java uses the conventional thread-based model for concurrency.
-
+ 
 
 
 #Question 9:Explain the access Modifiers available in Scala:
